@@ -2,4 +2,4 @@
 2. Design constraint: Compact layout with minimal energy consumption.
 3. Assumptions: Operates on 5V and uses standard input/output protocols
 
-build the schematic as shown. then upload the code using arduino IDE
+build the schematic as shown in the photos. then upload the code using arduino IDE
